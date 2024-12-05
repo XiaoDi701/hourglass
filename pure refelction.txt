@@ -1,0 +1,13 @@
+[see the preview picture in Skecth Files for screen shots of what would happen in different times of day]
+
+[try to type in words like "drawing","gaming"or"math" in the box]
+
+This is an "efficiency hourglass." The sand inside the hourglass, along with the balls and squares in the background, will change based on the time of day (I mapped the 1440 minutes of each day onto a color palette, so the colors will vary). Meanwhile, the sand inside the hourglass will decrease over time, eventually reaching zero.
+
+The most important interactive part allows you to enter what you’re currently working on. As I mentioned, due to my mental health issues, I have trouble noticing the passage of time and planning effectively. Even though I don’t write a strict "schedule," I still jot down daily tasks, and I ensure I’m productive each day, which is crucial for me. When I’m working on something I enjoy, more balls appear, indicating that I’m engaged and working efficiently (for example, drawing). Conversely, when I’m doing something I dislike, the number of balls decreases (for example, math), because I really hate math.
+
+Among my three sketches, the first combines music and time, the second is a clock similar to an astronomical clock, and the third is my "hourglass," which I use myself. To me, the first one is a bit cliché—many people use this theme to calculate time with music, etc. The second one lacks uniqueness because an astronomical clock is a very scientific and rational concept. The hourglass is my favorite idea. Like me, an hourglass can only "estimate" time, not measure it precisely, and you always get a sense of time slipping away lightly. This is how I perceive time.
+
+Lastly, I initially wanted to add textures and some buildings to the piece, but I decided to make life easier for myself. In this project, I used a lot of arrays, the constrain function, and the time function. The constrain function is a new concept I started using in this project, making it a great review. I also think this project is very complex, so I’ve done my best.
+
+My work has referenced parts of a previous project I completed with Nancy and Kevin. (https://editor.p5js.org/xiaod701/sketches/LJ74x_HOW).
