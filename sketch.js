@@ -174,6 +174,7 @@ function setup() {
   frameRate(10);
   let label = createElement("p", "What am I doing now?:");
   label.position(10, 600);
+  label.style("color", "white");
   input = createInput();
   input.attribute("type", "text");
   input.position(10, 640);
